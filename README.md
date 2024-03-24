@@ -8,7 +8,7 @@ I've been learning Coding for the last 6+ years. I started with text adventures 
 
 *   🌍  I'm based in Switzerland
 *   🖥️  See my portfolio at [greendata.dev](http://greendata.dev)
-*   ✉️  You can contact me at [greendata17@gmail.com](mailto:greendata17@gmail.com)
+*   ✉️  You can contact me at [contact@greendata.dev](mailto:contact@greendata.dev)
 *   🧠  I'm learning OS development with C++ (maybe later with Rust)
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  17 is my lucky number, not my age.
