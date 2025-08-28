@@ -4,12 +4,12 @@ Hi 👋 My name is GreenData
 Software Engineer Student
 -------------------------
 
-I've been learning Coding for the last 6+ years. I started with text adventures written in bash. having a taste of coding I switched to C#.
+I've been learning Coding for the last 7+ years. I started with text adventures written in bash. having a taste of coding I switched to C#.
 
 *   🌍  I'm based in Switzerland
-*   🖥️  See my portfolio at [greendata.dev](http://greendata.dev)
+*   🖥️  See my portfolio at [greendata.dev](http://greendata.dev) (currently Down, due to redoing my Infrastructure)
 *   ✉️  You can contact me at [contact@greendata.dev](mailto:contact@greendata.dev)
-*   🧠  I'm learning OS development with C++ (maybe later with Rust)
+*   🧠  I'm currently learning GoLang development
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  17 is my lucky number, not my age.
 ### Skills 
